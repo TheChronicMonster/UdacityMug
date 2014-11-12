@@ -1,0 +1,36 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.title {
+	font-family: 'Lucida Grande', sans-serif;
+	font-weight: 400;
+	font-size: 48px;
+	color: #666;
+}
+
+.h2 {
+	color: #f07c17;
+	font-size: 24px;
+	font-family: 'Lucida Grande', sans-serif;
+}
+
+.text {
+	line-height: 2em;
+	font-size: 14px;
+	color: #676858;
+	font-family: 'Lucida Grande', sans-serif;
+	font-weight: 100;
+}
+
+li {
+	line-height: 2em;
+	font-size: 12px;
+}
+
+.img-responsive {
+	width: 100% \9;
+}
